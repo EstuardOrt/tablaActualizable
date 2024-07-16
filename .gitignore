@@ -1,0 +1,12 @@
+# Ignorar archivos de video
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.wmv
+
+# Ignorar archivos .docx
+*.docx
+
+# Ignorar archivos .pdf
+*.pdf
